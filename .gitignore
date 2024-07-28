@@ -1,1 +1,4 @@
 /.idea/
+/mmap.iml
+**.wasm
+**.wasm.o
